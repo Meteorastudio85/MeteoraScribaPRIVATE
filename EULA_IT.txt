@@ -1,0 +1,58 @@
+SCRIBA - CONTRATTO DI LICENZA D'USO PER L'UTENTE FINALE (EULA)
+==============================================================
+
+Titolare: Meteora Plugins - [NOME E COGNOME / RAGIONE SOCIALE], [INDIRIZZO], [P.IVA se presente]
+("Meteora Plugins"). Prodotto: Scriba, plug-in audio (VST3 / AU / Standalone) ("Software").
+
+Installando o usando il Software accetti questo contratto. Se non lo accetti, non installarlo e non usarlo.
+
+1. LICENZA
+Meteora Plugins ti concede una licenza personale, non esclusiva e non trasferibile per installare e usare il
+Software su un massimo di 3 (tre) computer di tua proprieta' o sotto il tuo controllo, per uso personale o
+professionale, anche commerciale (produzione musicale, mix, lezioni).
+
+2. PROPRIETA'
+Il Software non viene venduto ma concesso in licenza. Codice, interfaccia, grafica, testi, nomi e loghi "Scriba"
+e "Meteora Plugins" restano di proprieta' esclusiva di Meteora Plugins e sono protetti dalla legge sul diritto
+d'autore (L. 633/1941) e dai trattati internazionali.
+
+3. COSA NON E' CONSENTITO
+Salvo quanto la legge permette in modo inderogabile, non puoi:
+a) copiare, distribuire, condividere, pubblicare, noleggiare, prestare, rivendere o cedere il Software
+   o i file di installazione, ne' renderli disponibili ad altri (anche su reti di condivisione);
+b) modificare, tradurre, adattare il Software o crearne opere derivate;
+c) decompilare, disassemblare o fare reverse engineering del Software, fatti salvi i limiti previsti
+   dall'art. 64-quater della L. 633/1941;
+d) rimuovere o alterare gli avvisi di copyright, i marchi o le informazioni di licenza;
+e) aggirare limitazioni della versione dimostrativa.
+
+4. IL TUO MATERIALE
+I file che produci con il Software (MIDI, testi, accordature, registrazioni) appartengono a te. Meteora Plugins
+non rivendica alcun diritto su di essi e non riceve l'audio che analizzi: l'analisi avviene sul tuo computer.
+
+5. COMPONENTI DI TERZI E MODELLO VOCALE
+Il Software contiene componenti di terzi usati secondo le rispettive licenze (file THIRD_PARTY_NOTICES.txt).
+Il modello vocale per la trascrizione dei testi viene scaricato separatamente da un servizio di terze parti
+ed e' soggetto alla propria licenza.
+
+6. VERSIONE DIMOSTRATIVA
+Se usi una versione dimostrativa, puoi usarla solo per valutare il Software, con le limitazioni previste.
+
+7. GARANZIA
+Il Software e' fornito "cosi' com'e'". Le trascrizioni (note, accordi, testi, tonalita', accordatura) sono
+automatiche e possono contenere errori: vanno verificate all'ascolto. Restano salvi i diritti che la legge
+riconosce al consumatore (D.Lgs. 206/2005, Codice del Consumo), che questo contratto non limita.
+
+8. RESPONSABILITA'
+Nei limiti consentiti dalla legge, Meteora Plugins non risponde di danni indiretti, perdita di dati o di
+guadagno derivanti dall'uso o dal mancato uso del Software, salvo i casi di dolo o colpa grave (art. 1229 c.c.).
+
+9. AGGIORNAMENTI E RISOLUZIONE
+Gli aggiornamenti, se forniti, sono regolati da questo contratto. La licenza cessa automaticamente se ne violi
+i termini: in tal caso devi disinstallare e cancellare tutte le copie del Software.
+
+10. LEGGE APPLICABILE E FORO
+Questo contratto e' regolato dalla legge italiana. Per i consumatori e' competente il foro del luogo di residenza
+del consumatore; negli altri casi il foro di [CITTA'].
+
+(c) 2026 Meteora Plugins. Tutti i diritti riservati.

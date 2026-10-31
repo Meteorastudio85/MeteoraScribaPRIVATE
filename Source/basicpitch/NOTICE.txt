@@ -1,0 +1,11 @@
+Basic Pitch transcription in Scriba
+
+- Basic Pitch model and weights: Copyright 2022 Spotify AB, Apache License 2.0 (LICENSE-BasicPitch.txt).
+  https://github.com/spotify/basic-pitch
+- BasicPitchCNN.*, Notes.*, BasicPitchConstants.h, Utils.h and the cnn_*.json weight files come from
+  NeuralNote v1.1.0 by Damien Ronssin, Apache License 2.0 (LICENSE-NeuralNote.txt).
+  https://github.com/DamRsn/NeuralNote
+  Changes: NoteUtils.h reduced to the two functions used, without JUCE; <algorithm> included in Notes.h.
+- The CQT / harmonic stacking front end (BasicPitchFeatures.*) is a new C++ implementation written for Scriba,
+  following basic_pitch/layers/nnaudio.py and basic_pitch/nn.py.
+- RTNeural: Copyright (c) 2020 jatinchowdhury18, BSD 3-Clause License.

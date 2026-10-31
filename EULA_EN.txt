@@ -1,0 +1,55 @@
+SCRIBA - END USER LICENSE AGREEMENT (EULA)
+==========================================
+
+Licensor: Meteora Plugins - [FULL NAME / COMPANY NAME], [ADDRESS], [VAT NUMBER if any] ("Meteora Plugins").
+Product: Scriba, audio plug-in (VST3 / AU / Standalone) (the "Software").
+
+By installing or using the Software you accept this agreement. If you do not accept it, do not install or use it.
+
+1. LICENSE
+Meteora Plugins grants you a personal, non-exclusive, non-transferable license to install and use the Software on
+up to 3 (three) computers that you own or control, for personal or professional use, including commercial music work.
+
+2. OWNERSHIP
+The Software is licensed, not sold. Its code, user interface, graphics, texts and the "Scriba" and
+"Meteora Plugins" names and logos remain the exclusive property of Meteora Plugins and are protected by copyright
+law and international treaties.
+
+3. RESTRICTIONS
+Except as expressly permitted by mandatory law, you may not:
+a) copy, distribute, share, publish, rent, lend, resell or transfer the Software or its installers, or make them
+   available to others (including on file-sharing networks);
+b) modify, translate or adapt the Software or create derivative works from it;
+c) decompile, disassemble or reverse engineer the Software, except to the extent permitted by applicable law
+   (in the EU: Directive 2009/24/EC, art. 6);
+d) remove or alter copyright notices, trademarks or license information;
+e) circumvent the limitations of the demo version.
+
+4. YOUR MATERIAL
+The files you create with the Software (MIDI, texts, tunings, recordings) belong to you. Meteora Plugins claims no
+rights over them and does not receive the audio you analyze: the analysis runs on your computer.
+
+5. THIRD-PARTY COMPONENTS AND VOICE MODEL
+The Software contains third-party components used under their own licenses (THIRD_PARTY_NOTICES.txt). The voice
+model used for lyrics transcription is downloaded separately from a third-party service and has its own license.
+
+6. DEMO VERSION
+A demo version may be used only to evaluate the Software, within its limitations.
+
+7. WARRANTY
+The Software is provided "as is". Transcriptions (notes, chords, lyrics, key, tuning) are automatic and may contain
+errors: check them by ear. Your statutory rights as a consumer are not affected.
+
+8. LIABILITY
+To the extent permitted by law, Meteora Plugins is not liable for indirect damages, loss of data or profits arising
+from the use of, or inability to use, the Software, except in cases of willful misconduct or gross negligence.
+
+9. UPDATES AND TERMINATION
+Updates, if provided, are covered by this agreement. This license ends automatically if you breach it: you must then
+uninstall and delete all copies of the Software.
+
+10. GOVERNING LAW
+This agreement is governed by Italian law. Consumers may bring proceedings in the courts of their place of
+residence; in all other cases the courts of [CITY], Italy, have jurisdiction.
+
+(c) 2026 Meteora Plugins. All rights reserved.

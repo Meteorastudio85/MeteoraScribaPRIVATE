@@ -1,0 +1,20 @@
+SCRIBA - PROPRIETARY LICENSE / LICENZA PROPRIETARIA
+===================================================
+
+Copyright (c) 2026 Meteora Plugins. All rights reserved. Tutti i diritti riservati.
+
+This source code, the compiled plug-in, its user interface, graphics, texts, documentation and the
+"Scriba" and "Meteora Plugins" names and logos are the exclusive property of Meteora Plugins and are
+protected by copyright law (in Italy: Law 22 April 1941 n. 633, art. 2 n. 8 and art. 64-bis and following)
+and by international treaties.
+
+No part of this software may be copied, modified, translated, adapted, distributed, published, sold,
+sublicensed or used to create derivative works, in whole or in part, by any means, without the prior
+written permission of Meteora Plugins. Access to this source code does not grant any licence.
+
+End users of the compiled plug-in are bound by the End User License Agreement (EULA_IT.txt / EULA_EN.txt).
+
+Third-party components included in Scriba are used under their own licences, listed in
+THIRD_PARTY_NOTICES.txt. Those licences apply only to those components.
+
+Contact: https://meteoraplugins.gumroad.com
